@@ -31,6 +31,14 @@
 		{
 			"ImportPath": "golang.org/x/net/context",
 			"Rev": "d9558e5c97f85372afee28cf2b6059d7d3818919"
+		},
+		{
+			"ImportPath": "github.com/gorilla/websocket",
+			"Rev": "a68708917c6a4f06314ab4e52493cc61359c9d42"
+		},
+		{
+			"ImportPath": "gopkg.in/dancannon/gorethink.v2",
+			"Rev": "de072a9c0eff5bd52ef81fe45b6abeccde74bd13"
 		}
 
 	]
